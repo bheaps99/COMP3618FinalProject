@@ -3,3 +3,4 @@ C:\NET\class 11\Samurai\SamuraiProject\DomainClasses\bin\Debug\DomainClasses.dll
 C:\NET\class 11\Samurai\SamuraiProject\DomainClasses\bin\Debug\DomainClasses.pdb
 C:\NET\class 11\Samurai\SamuraiProject\DomainClasses\obj\Debug\DomainClasses.dll
 C:\NET\class 11\Samurai\SamuraiProject\DomainClasses\obj\Debug\DomainClasses.pdb
+C:\NET\class 11\Samurai\SamuraiProject\DomainClasses\obj\Debug\DomainClasses.csprojAssemblyReference.cache
